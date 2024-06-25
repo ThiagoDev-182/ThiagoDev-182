@@ -4,8 +4,8 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <div>
   <a href="https://github.com/ThiagoDev-182">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagobiscoito&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagobiscoito&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoDev-182&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDev-182&layout=compact&langs_count=7&theme=react"/>
 </div>
   
   
